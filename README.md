@@ -1,7 +1,7 @@
 # FUD
 Bypass Window 10 Defender Firewall & Bypass UAC 
 # How to use 
-1. git clone https://github.com/Ignitetch/FUD.git
+1. git clone https://github.com/yasif-tracker/FUD.git
 2. cd FUD
 3. ./FUD.sh
 # Intructions
